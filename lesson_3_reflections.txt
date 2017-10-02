@@ -26,4 +26,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I want to make changes in a separate branch when I have a different idea from 
+    master. Master is easier to operate on. You can try your idea in a separate branch.
